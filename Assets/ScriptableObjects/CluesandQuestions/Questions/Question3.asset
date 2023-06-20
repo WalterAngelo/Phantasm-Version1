@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aae8952f29c583f4db37d2af031c7356, type: 3}
+  m_Name: Question3
+  m_EditorClassIdentifier: 
+  type: 1
+  floor: 3
+  info: Conclude on what was going on.
+  cluesPerFloor:
+  - {fileID: 11400000, guid: 9255034a1b4c3f14e9d1868aa74db5da, type: 2}
+  - {fileID: 11400000, guid: 07d3cfa187138004c94bf61166836435, type: 2}

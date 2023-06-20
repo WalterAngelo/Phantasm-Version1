@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aae8952f29c583f4db37d2af031c7356, type: 3}
+  m_Name: Question2
+  m_EditorClassIdentifier: 
+  type: 1
+  floor: 2
+  info: Cause of the disappearance of the family.
+  cluesPerFloor:
+  - {fileID: 11400000, guid: 25c38b79ece062248b3019f0211aa06e, type: 2}
+  - {fileID: 11400000, guid: 0536d8eceda31f7469ee4f148b01403f, type: 2}
+  - {fileID: 11400000, guid: d5ded22fc72f5f24f88701abb80cbc9b, type: 2}

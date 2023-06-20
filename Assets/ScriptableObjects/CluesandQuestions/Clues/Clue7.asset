@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 842dcfd4935acf84db2c7037d50195b9, type: 3}
+  m_Name: Clue7
+  m_EditorClassIdentifier: 
+  type: 0
+  floor: 3
+  info: Bloody room that looks like a torture chamber.
+  visibleCharacters: 0
+  maxCharacters: 0
+  found: 0
+  used: 0
+  shortDesc: Bloody room
+  audio: {fileID: 0}
+  monologueSecs: 0
+  clueMonologue: "God!! This family is bonkers !!! The next room will be my last
+    and I\u2019ll get out of here ASAP."
